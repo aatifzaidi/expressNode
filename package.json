@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatifzaidi/expressNode.git"
+  },
+  "author": "aatifZaidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aatifzaidi/expressNode/issues"
+  },
+  "homepage": "https://github.com/aatifzaidi/expressNode#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "server": "^1.0.18"
+  }
+}
